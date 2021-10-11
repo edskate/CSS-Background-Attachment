@@ -1,0 +1,13 @@
+body {
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 100px;
+    background-attachment: fixed;
+    text-align: center;
+    color: blue;
+    font-size: large;
+    margin: 5%;
+    padding: 5%;
+    box-shadow:  inset 2px 3px 4px 5px #994 ;
+  }
